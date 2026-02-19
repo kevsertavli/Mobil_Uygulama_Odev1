@@ -1,0 +1,7 @@
+{
+  "name": "MODUM - Campus & Wellbeing",
+  "description": "A glassmorphic wellbeing and support application for university students featuring mood tracking, surveys, and safety tools.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
